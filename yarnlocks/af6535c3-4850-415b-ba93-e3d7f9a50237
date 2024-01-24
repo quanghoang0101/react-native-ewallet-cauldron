@@ -1285,6 +1285,14 @@ atob@^2.1.2:
   resolved "https://registry.yarnpkg.com/atob/-/atob-2.1.2.tgz#6d9517eb9e030d2436666651e86bd9f6f13533c9"
   integrity sha512-Wm6ukoaOGJi/73p/cl2GvLjTI5JM1k/O14isD73YML8StrH/7/lRFgmg8nICZgD3bZZvjwCGxtMOD3wWNAu8cg==
 
+"auth-miniapp@https://github.com/quanghoang0101/auth-miniapp.git#eb23a290ee902a2f7dfaca76fefdd6da6ce04d1c":
+  version "0.0.1"
+  resolved "https://github.com/quanghoang0101/auth-miniapp.git#eb23a290ee902a2f7dfaca76fefdd6da6ce04d1c"
+  dependencies:
+    ern-navigation "^2.1.0"
+    react "17.0.2"
+    react-native "0.68.7"
+
 babel-core@^7.0.0-bridge.0:
   version "7.0.0-bridge.0"
   resolved "https://registry.yarnpkg.com/babel-core/-/babel-core-7.0.0-bridge.0.tgz#95a492ddd90f9b4e9a4a1da14eb335b87b634ece"
@@ -4566,6 +4574,14 @@ vlq@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/vlq/-/vlq-1.0.1.tgz#c003f6e7c0b4c1edd623fd6ee50bbc0d6a1de468"
   integrity sha512-gQpnTgkubC6hQgdIcRdYGDSDc+SaujOdyesZQMv6JlfQee/9Mp0Qhnys6WxDWvQnL5WZdT7o2Ul187aSt0Rq+w==
+
+"voucher-miniapp@https://github.com/quanghoang0101/voucher-miniapp.git#c38d7337904f03af36e3d8d6b2f61ff4348afa31":
+  version "0.0.1"
+  resolved "https://github.com/quanghoang0101/voucher-miniapp.git#c38d7337904f03af36e3d8d6b2f61ff4348afa31"
+  dependencies:
+    ern-navigation "^2.1.0"
+    react "17.0.2"
+    react-native "0.68.7"
 
 walker@^1.0.7:
   version "1.0.8"
