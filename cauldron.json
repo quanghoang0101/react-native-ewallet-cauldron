@@ -40,7 +40,23 @@
               },
               "containerVersion": "1.0.0"
             }
-          ]
+          ],
+          "config" : {
+            "containerGenerator": {
+              "containerVersion": "1.0.0",
+              "pipeline" :[],
+              "publishers": [
+                {
+                  "name": "git",
+                  "url": "https://github.com/quanghoang0101/ewallet-container-android.git",
+                  "extra": {
+                    "branch": "main",
+                    "allowVersionOverwrite": true
+                  }
+                }
+              ]
+            }
+          }
         },
         {
           "name": "ios",
