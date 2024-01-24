@@ -15,7 +15,8 @@
                 "miniApps": [
                   "https://github.com/quanghoang0101/main-miniapp.git#0ae27e85b3f84a326550d05b2a4c5e2ab48f6032",
                   "https://github.com/quanghoang0101/auth-miniapp.git#eb23a290ee902a2f7dfaca76fefdd6da6ce04d1c",
-                  "https://github.com/quanghoang0101/voucher-miniapp.git#c38d7337904f03af36e3d8d6b2f61ff4348afa31"
+                  "https://github.com/quanghoang0101/voucher-miniapp.git#c38d7337904f03af36e3d8d6b2f61ff4348afa31",
+                  "https://github.com/quanghoang0101/profile-miniapp.git#d7b64e8b81545e3320833deef2ff495e43c2108b"
                 ],
                 "nativeDeps": [
                   "ernnavigation-api-impl-native@2.1.0",
@@ -27,7 +28,8 @@
                 "miniAppsBranches": [
                   "https://github.com/quanghoang0101/main-miniapp.git#main",
                   "https://github.com/quanghoang0101/auth-miniapp.git#main",
-                  "https://github.com/quanghoang0101/voucher-miniapp.git#main"
+                  "https://github.com/quanghoang0101/voucher-miniapp.git#main",
+                  "https://github.com/quanghoang0101/profile-miniapp.git#main"
                 ],
                 "ernVersion": "0.51.1"
               },
