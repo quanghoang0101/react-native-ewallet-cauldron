@@ -97,10 +97,10 @@
             "containerVersion": "1.0.0",
             "pipeline": [
               {
-                "name": "ern-container-transformer-xcframework"
+                "name": "xcframework"
               },
               {
-                "name": "ern-container-publisher-cocoapods-git",
+                "name": "cocoapods-git",
                 "url": "https://github.com/quanghoang0101/ewallet-container-ios.git",
                 "extra": {
                   "branch": "main",
