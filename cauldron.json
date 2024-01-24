@@ -41,10 +41,10 @@
               "containerVersion": "1.0.0"
             }
           ],
-          "config" : {
+          "config": {
             "containerGenerator": {
               "containerVersion": "1.0.0",
-              "pipeline" :[],
+              "pipeline": [],
               "publishers": [
                 {
                   "name": "git",
