@@ -12,12 +12,27 @@
               "codePush": {},
               "container": {
                 "jsApiImpls": [],
-                "miniApps": [],
-                "nativeDeps": []
+                "miniApps": [
+                  "https://github.com/quanghoang0101/main-miniapp.git#0ae27e85b3f84a326550d05b2a4c5e2ab48f6032"
+                ],
+                "nativeDeps": [
+                  "ernnavigation-api-impl-native@2.1.0",
+                  "ernnavigation-api@2.1.0",
+                  "react-native-electrode-bridge@1.6.0",
+                  "react-native-ewallet-navigation-api@1.0.0",
+                  "react-native@0.68.7"
+                ],
+                "miniAppsBranches": [
+                  "https://github.com/quanghoang0101/main-miniapp.git#main"
+                ],
+                "ernVersion": "0.51.1"
               },
               "isReleased": false,
               "nativeDeps": [],
-              "yarnLocks": {}
+              "yarnLocks": {
+                "container": "af6535c3-4850-415b-ba93-e3d7f9a50237"
+              },
+              "containerVersion": "1.0.0"
             }
           ]
         }
