@@ -80,27 +80,31 @@
               "containerVersion": "1.0.0",
               "pipeline": [
                 {
+                  "name": "create-container"
+                },
+                {
                   "name": "xcframework"
                 }
               ],
-              "publisher": {
-                "name": "cocoapods-git",
-                "url": "https://github.com/quanghoang0101/ewallet-container-ios.git",
-                "extra": {
-                  "branch": "main",
-                  "allowVersionOverwrite": false,
-                  "podspec": {
-                    "name": "ElectrodeContainer",
-                    "summary": "Electrode Native Container",
-                    "homepage": "https://passioninfinity.com",
-                    "license": "MIT",
-                    "author": "Phan Quang Hoang",
-                    "swift_version": "5.0",
-                    "deployment_target": "11.0"
+              "publisher": [
+                {
+                  "name": "cocoapods-git",
+                  "url": "https://github.com/quanghoang0101/ewallet-container-ios.git",
+                  "extra": {
+                    "branch": "main",
+                    "allowVersionOverwrite": false,
+                    "podspec": {
+                      "name": "ElectrodeContainer",
+                      "summary": "Electrode Native Container",
+                      "homepage": "https://passioninfinity.com",
+                      "license": "MIT",
+                      "author": "Phan Quang Hoang",
+                      "swift_version": "5.0",
+                      "deployment_target": "11.0"
+                    }
                   }
                 }
-              }
-              
+              ]
             }
           }
         }
