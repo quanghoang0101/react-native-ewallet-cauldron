@@ -40,7 +40,7 @@
               "yarnLocks": {
                 "container": "af6535c3-4850-415b-ba93-e3d7f9a50237"
               },
-              "containerVersion": "1.0.0"
+              "containerVersion": "1.0.1"
             }
           ],
           "containerGenerator": {
