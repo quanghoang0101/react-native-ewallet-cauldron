@@ -1396,9 +1396,9 @@ atob@^2.1.2:
   resolved "https://registry.yarnpkg.com/atob/-/atob-2.1.2.tgz#6d9517eb9e030d2436666651e86bd9f6f13533c9"
   integrity sha512-Wm6ukoaOGJi/73p/cl2GvLjTI5JM1k/O14isD73YML8StrH/7/lRFgmg8nICZgD3bZZvjwCGxtMOD3wWNAu8cg==
 
-"auth-miniapp@https://github.com/quanghoang0101/auth-miniapp.git#7b9bf3cb78083ce5f8e7d9e76a5214585f40c189":
+"auth-miniapp@https://github.com/quanghoang0101/auth-miniapp.git#704316db284345580c89d19dbdbe8fd6163a98df":
   version "0.0.1"
-  resolved "https://github.com/quanghoang0101/auth-miniapp.git#7b9bf3cb78083ce5f8e7d9e76a5214585f40c189"
+  resolved "https://github.com/quanghoang0101/auth-miniapp.git#704316db284345580c89d19dbdbe8fd6163a98df"
   dependencies:
     "@react-navigation/native" "^6.1.9"
     "@react-navigation/native-stack" "^6.9.17"
