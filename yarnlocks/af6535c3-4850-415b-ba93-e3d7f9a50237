@@ -1396,15 +1396,16 @@ atob@^2.1.2:
   resolved "https://registry.yarnpkg.com/atob/-/atob-2.1.2.tgz#6d9517eb9e030d2436666651e86bd9f6f13533c9"
   integrity sha512-Wm6ukoaOGJi/73p/cl2GvLjTI5JM1k/O14isD73YML8StrH/7/lRFgmg8nICZgD3bZZvjwCGxtMOD3wWNAu8cg==
 
-"auth-miniapp@https://github.com/quanghoang0101/auth-miniapp.git#4f05b803500f95b259fd696bed186ad2a33588c2":
+"auth-miniapp@https://github.com/quanghoang0101/auth-miniapp.git#6f5bd14c729d52279bbed08fc29e9921f20e6af9":
   version "0.0.1"
-  resolved "https://github.com/quanghoang0101/auth-miniapp.git#4f05b803500f95b259fd696bed186ad2a33588c2"
+  resolved "https://github.com/quanghoang0101/auth-miniapp.git#6f5bd14c729d52279bbed08fc29e9921f20e6af9"
   dependencies:
     "@react-navigation/native" "^6.1.9"
     "@react-navigation/native-stack" "^6.9.17"
     ern-navigation "^2.1.0"
     react "17.0.2"
     react-native "0.68.7"
+    react-native-auth-api "https://github.com/quanghoang0101/react-native-auth-api"
     react-native-electrode-bridge "^1.6.0"
     react-native-safe-area-context "3.4.0"
     react-native-screens "3.5.0"
@@ -3873,6 +3874,12 @@ react-is@^16.13.0, react-is@^16.13.1:
   version "16.13.1"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
+
+"react-native-auth-api@https://github.com/quanghoang0101/react-native-auth-api":
+  version "1.0.0"
+  resolved "https://github.com/quanghoang0101/react-native-auth-api#3594c450049d898bddfea1fdb25cfb605656018f"
+  dependencies:
+    react-native-electrode-bridge "^1.6.0"
 
 react-native-codegen@^0.0.18:
   version "0.0.18"
