@@ -16,3 +16,20 @@
 **3. Consume Container**
 
   IOS: `pod 'ElectrodeContainer', :git => 'url_to_git_repo', :tag => 'container_version'`
+  
+  Android: update build.gradle.kt
+  
+      android {
+         repositories {
+           maven { url = URI("https://jitpack.io") }
+         }
+      }
+
+      dependencies {
+         implementation("com.github.[username]:[git-repo-name]:[tag]")
+      }
+      
+      Example:
+       dependencies {
+         implementation("com.github.quanghoang0101:ewallet-container-android:1.0.2")
+      }
