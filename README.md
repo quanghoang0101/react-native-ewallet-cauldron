@@ -1,4 +1,4 @@
-# Steps to Public Container
+# Workflow to Mobile Native app (iOS, Android) consume Electrode Native Container
 
 **1. Regen Container**
 
