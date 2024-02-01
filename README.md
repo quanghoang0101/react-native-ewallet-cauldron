@@ -11,6 +11,7 @@
 **3. Public Container**
 
    IOS: `ern publish-container -p cocoapod-git -u [url_to_git_repo] -v [gitTag]  --platform ios -e '{"branch":"[branch_name]"}'`
+   
    Android: `ern publish-container -p git -u [url_to_git_repo] -v [gitTag]  --platform android -e '{"branch":"[branch_name]"}'`
 
 **3. Consume Container**
