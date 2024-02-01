@@ -3514,9 +3514,9 @@ normalize-path@^3.0.0:
   resolved "https://registry.yarnpkg.com/normalize-path/-/normalize-path-3.0.0.tgz#0dcd69ff23a1c9b11fd0978316644a0388216a65"
   integrity sha512-6eZs5Ls3WtCisHWp9S2GUy8dqkpGi4BVSz3GaqiE6ezub0512ESztXUwUB6C6IKbQkY2Pnb/mD4WYojCRwcwLA==
 
-"notification-miniapp@https://github.com/quanghoang0101/notification-miniapp.git#7e5b067904b273b5527c9149014e5b8381524756":
+"notification-miniapp@https://github.com/quanghoang0101/notification-miniapp.git#2fc43cc1760784c8b0c0fc465fc30373817e1b3a":
   version "0.0.1"
-  resolved "https://github.com/quanghoang0101/notification-miniapp.git#7e5b067904b273b5527c9149014e5b8381524756"
+  resolved "https://github.com/quanghoang0101/notification-miniapp.git#2fc43cc1760784c8b0c0fc465fc30373817e1b3a"
   dependencies:
     ern-navigation "^2.1.0"
     react "17.0.2"
